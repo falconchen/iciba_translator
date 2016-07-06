@@ -1,0 +1,18 @@
+{
+  "name": "爱词霸翻译",
+  "description": "在http://www.iciba.com/翻译网页指定的文字",
+  "version": "1.0",
+  "background": {
+    "scripts": ["menu.js"]
+  },
+
+  "permissions": [
+    "contextMenus"
+  ],
+  "icons": {
+    "16": "images/icon16.png",
+    "48": "images/icon16.png",
+    "128": "images/icon16.png"
+  },
+  "manifest_version": 2
+}
